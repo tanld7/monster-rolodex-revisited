@@ -2,7 +2,7 @@
     "name": "1.2-monsters-rolodex",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://tanld7.github.io/monster-rolodex-revisited",
+    "homepage": "https://tanld7.github.io/morodex",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.5",
         "@testing-library/react": "^13.4.0",
